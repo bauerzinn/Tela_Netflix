@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//componentinho para não repetir padding + estilo toda vez que você cria um título acima das listas.
+
 class SectionTitle extends StatelessWidget {
   const SectionTitle(this.texto, {super.key});
 

@@ -54,6 +54,8 @@ class _HomePageState extends State<HomePage> {
           ),
         ),
       ),
+
+      //aqui é o bottom navigation bar, aonde clica muda a cor/aba
       bottomNavigationBar: NetflixBottomNav(
         indiceSelecionado: _abaInferior,
         onTrocarAba: (i) => setState(() => _abaInferior = i),
