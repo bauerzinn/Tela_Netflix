@@ -1,8 +1,8 @@
 # netflix_replica
 
 ## Alunos:
- Gabriel Bauer
- Iuker de Souza Santos
- Murilo Henrique Baruffi
- Rafael Grabowski de Lima
+ - Gabriel Bauer<br>
+ - Iuker de Souza Santos<br>
+ - Murilo Henrique Baruffi<br>
+ - Rafael Grabowski de Lima<br>
 
